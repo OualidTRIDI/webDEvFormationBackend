@@ -1,7 +1,10 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const fs = require('fs');
+const { v4: uuidv4 } = require('uuid');
+
 const cors = require('cors');
+
 
 const app = express();
 const PORT = 3000;
@@ -56,7 +59,7 @@ app.post('/recepes', (req, res) => {
         }
         const recepes = JSON.parse(data);
         const newRecepe = req.body;
-        newRecepe.id = recepes.length + 1;
+        newRecepe.id = uuidv4();
         recepes.push(newRecepe);
         fs.writeFile(RECEPES_FILE, JSON.stringify(recepes, null, 2), (err) => {
             if (err) {

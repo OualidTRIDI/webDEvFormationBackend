@@ -14,10 +14,10 @@
     "id": 1
   },
   {
-    "name": "Test",
+    "name": "Chakhchoukha",
     "imageLink": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Algerian_Chakhchoukha.jpg",
-    "ingredients": "john@example.com",
-    "preparation": "john@example.com",
-    "id": 3
+    "ingredients": "poulet coupées en 2/couscous (grain moyen)/tomate fraîche/Oignon/ras el Hanout/cumin moulu/Harissa (en poudre en tube ou en boîte)/Huile d'olive/petite courgette/Carotte/pois chiches jus compris",
+    "preparation    ": "Chauffer l'huile dans une grande cocotte. Y faire dorer les morceaux de viande et les laisser cuire pendant la préparation des légumes./Couper les courgettes et l'aubergine en gros cubes (ne pas les peler). Éplucher les navets et les couper en gros quartiers. Ouvrir les piments et les poivrons, ôter les graines et les parties blanches. Couper en lanières. Eplucher et émincer les oignons./Ôter la viande de la cocotte et jeter la graisse, sans laver la cocotte pour conserver les sucs de viande. Verser un peu d'huile et faire dorer légèrement l'oignon. Ajouter les épices et laisser chauffer 1 minute pour bien exprimer tous les parfums. Ajouter les légumes, bien remuer et verser 1 litre d'eau chaude du robinet. Saler généreusement. Remettre la viande dans la cocotte et laisser mijoter 30 minutes. 10 minutes avant la fin de la cuisson, ajouter les pois chiches, jus compris./Pendant ce temps, rincer soigneusement la semoule à l'eau chaude (elle commence ainsi à gonfler). Au bout de 20 minutes de cuisson de la viande, prélever une partie du bouillon et le filtrer avant de le verser sur la semoule (1 volume 1/2 de bouillon pour un volume de semoule). Remuer rapidement, mettre un couvercle et laisser gonfler 5 minutes./Pendant que la semoule gonfle, piquer abondamment les merguez à la fourchette ou avec la pointe d'un couteau. Les faire cuire sans graisse dans une poêle à revêtement anti-adhésif. Elles perdent ainsi une grande majorité de leur graisse./Mettre la graine de couscous dans un grand plat et disposer la viande et les légumes égouttés au-dessus. Présenter, à part, un bol de jus de cuisson nature et un autre avec le jus de cuisson additionné de harissa.",
+    "id": "a946b36f-afa3-4bb0-aa35-84078f2e7b71"
   }
 ]
