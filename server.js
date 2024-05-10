@@ -13,6 +13,8 @@ const RECEPES_FILE = 'recepes.json';
 app.use(bodyParser.json());
 app.use(cors());
 
+app.get('/', (req, res) => res.send('Hello World!'));
+
 
 // CRUD endpoints
 
