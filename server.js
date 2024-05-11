@@ -187,7 +187,7 @@ app.post('/books', (req, res) => {
     });
 });
 
-// Update a recepe by ID
+// Update a book by ID
 app.put('/books/:id', (req, res) => {
     const bookId = parseInt(req.params.id);
     fs.readFile(BOOKS_FILE, 'utf8', (err, data) => {
